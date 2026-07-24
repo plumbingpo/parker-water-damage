@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationparker.com/sitemap.xml
